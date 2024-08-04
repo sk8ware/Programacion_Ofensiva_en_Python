@@ -1,4 +1,4 @@
-# N°4 Python Ofensivo
+# Programación Ofensiva en Python
 
 Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensivas para enfrentarte a los retos más complejos en ciberseguridad
 
