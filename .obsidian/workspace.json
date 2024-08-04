@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md"
+                "file": "README.md"
               }
             }
           }
@@ -157,11 +157,13 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "774ef897623db333",
+  "active": "4cbd1c21c3f6d67a",
   "lastOpenFiles": [
-    "Bienvenido.md"
+    "Bienvenido.md",
+    "README.md"
   ]
 }
