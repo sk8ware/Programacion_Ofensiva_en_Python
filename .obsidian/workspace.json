@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ecd63c5097cfaf7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bb44bc34bc8655a9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md"
               }
             }
           }
@@ -161,9 +147,38 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4cbd1c21c3f6d67a",
+  "active": "774ef897623db333",
   "lastOpenFiles": [
-    "Bienvenido.md",
-    "README.md"
+    "4. Programación Orientada a Objetos en P/4.5 Herencia y Polimorfismo en Python.md",
+    "4. Programación Orientada a Objetos en P/4.4 Comprendiendo el Uso de self.md",
+    "4. Programación Orientada a Objetos en P/4.3 Métodos Estáticos y Métodos de Clase.md",
+    "4. Programación Orientada a Objetos en P/4.2 Definición de Clases y Creación de Objetos (Parte 2).md",
+    "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
+    "3. Estructuras de Datos en Python/3.5 Proyecto de Desarrollo de Videojuegos.md",
+    "3. Estructuras de Datos en Python/3.4 Diccionarios en Python.md",
+    "3. Estructuras de Datos en Python/3.3 Conjuntos en Python.md",
+    "3. Estructuras de Datos en Python/3.2 Tuplas en Python.md",
+    "3. Estructuras de Datos en Python/3.1 Listas en Python.md",
+    "2. Fundamentos de Python/2.9 Gestión de Errores y Excepciones.md",
+    "2. Fundamentos de Python/2.8 Funciones Lambda y Anónimas.md",
+    "2. Fundamentos de Python/2.7 Definición de Funciones y Ámbito de Variables.md",
+    "2. Fundamentos de Python/2.6 Control de Flujo (Condicionales y Bucles).md",
+    "2. Fundamentos de Python/2.5 Formateo de Cadenas.md",
+    "2. Fundamentos de Python/2.4 Operadores Básicos en Python.md",
+    "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
+    "2. Fundamentos de Python/2.2 Uso de Shebang y Convenciones en Python.md",
+    "2. Fundamentos de Python/2.1 El Entorno de Ejecución de Python.md",
+    "1. Introducción a Python/1.3 Comparación entre Python2, Python3, PIP2 y PIP3.md",
+    "1. Introducción a Python/1.2 Características y Beneficios de Python.md",
+    "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
+    "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
+    "README.md",
+    "4. Programación Orientada a Objetos en P",
+    "Programación Orientada a Objetos en Python",
+    "1. Introducción a Python/1.1 Orígenes y Filosofía de Python.md",
+    "3. Estructuras de Datos en Python",
+    "2. Fundamentos de Python",
+    "1. Introducción a Python",
+    "Bienvenido.md"
   ]
 }
