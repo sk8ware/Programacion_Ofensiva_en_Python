@@ -26,7 +26,7 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
     - 3.3 Conjuntos en Python
     - 3.4 Diccionarios en Python
     - 3.5 Proyecto de Desarrollo de Videojuegos
-- 4. Programación Orientada a Objetos en Python
+- **4. Programación Orientada a Objetos en Python**
 	- 4.1 Definición de Clases y Creación de Objetos (Parte 1)
 	- 4.2 Definición de Clases y Creación de Objetos (Parte 2)
 	- 4.3 Métodos Estáticos y Métodos de Clase
