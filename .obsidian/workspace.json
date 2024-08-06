@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
+                "file": "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
+                "file": "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
+                "file": "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md"
+                "file": "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
     "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
+    "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
     "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
     "4. Programación Orientada a Objetos en P/4.5 Herencia y Polimorfismo en Python.md",
     "README.md",
