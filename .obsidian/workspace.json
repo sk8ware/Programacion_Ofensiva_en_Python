@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -151,8 +152,8 @@
   "lastOpenFiles": [
     "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
     "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
-    "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
     "4. Programación Orientada a Objetos en P/4.5 Herencia y Polimorfismo en Python.md",
+    "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
     "README.md",
     "4. Programación Orientada a Objetos en P/4.4 Comprendiendo el Uso de self.md",
     "4. Programación Orientada a Objetos en P/4.3 Métodos Estáticos y Métodos de Clase.md",
