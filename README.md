@@ -26,7 +26,7 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
     - 3.3 Conjuntos en Python
     - 3.4 Diccionarios en Python
     - 3.5 Proyecto de Desarrollo de Videojuegos
-- 4. Programación Orientada a Objetos en Python
+- **4. Programación Orientada a Objetos en Python**
 	- 4.1 Definición de Clases y Creación de Objetos (Parte 1)
 	- 4.2 Definición de Clases y Creación de Objetos (Parte 2)
 	- 4.3 Métodos Estáticos y Métodos de Clase
@@ -34,3 +34,7 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
 	- 4.5 Herencia y Polimorfismo en Python
 	- 4.6 Encapsulamiento y Métodos Especiales
 	- 4.7 Decoradores y Propiedades en Clases
+- **5.**5. Módulos y Paquetes en Python**
+	- 5.1 Estructuración de Código en Módulos
+	- 5.2 Cómo Importar y Utilizar Módulos
+	- 5.3 Creación y Distribución de Librerías
