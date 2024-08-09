@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -147,7 +148,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4cbd1c21c3f6d67a",
+  "active": "774ef897623db333",
   "lastOpenFiles": [
     "README.md",
     "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
