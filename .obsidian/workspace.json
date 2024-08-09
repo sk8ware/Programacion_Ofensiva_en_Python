@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
+                "file": "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "propiedades",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
+                "file": "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
+                "file": "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md"
+                "file": "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md"
               }
             }
           }
@@ -148,19 +147,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "774ef897623db333",
+  "active": "4cbd1c21c3f6d67a",
   "lastOpenFiles": [
-    "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
+    "README.md",
+    "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
     "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
+    "5. Módulos y paquetes en Python",
+    "3. Estructuras de Datos en Python/3.3 Conjuntos en Python.md",
+    "4. Programación Orientada a Objetos en P/4.3 Métodos Estáticos y Métodos de Clase.md",
+    "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
     "4. Programación Orientada a Objetos en P/4.5 Herencia y Polimorfismo en Python.md",
     "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
-    "README.md",
     "4. Programación Orientada a Objetos en P/4.4 Comprendiendo el Uso de self.md",
-    "4. Programación Orientada a Objetos en P/4.3 Métodos Estáticos y Métodos de Clase.md",
     "4. Programación Orientada a Objetos en P/4.2 Definición de Clases y Creación de Objetos (Parte 2).md",
     "3. Estructuras de Datos en Python/3.5 Proyecto de Desarrollo de Videojuegos.md",
     "3. Estructuras de Datos en Python/3.4 Diccionarios en Python.md",
-    "3. Estructuras de Datos en Python/3.3 Conjuntos en Python.md",
     "3. Estructuras de Datos en Python/3.2 Tuplas en Python.md",
     "3. Estructuras de Datos en Python/3.1 Listas en Python.md",
     "2. Fundamentos de Python/2.9 Gestión de Errores y Excepciones.md",
@@ -179,7 +180,6 @@
     "1. Introducción a Python/1.1 Orígenes y Filosofía de Python.md",
     "3. Estructuras de Datos en Python",
     "2. Fundamentos de Python",
-    "1. Introducción a Python",
-    "Bienvenido.md"
+    "1. Introducción a Python"
   ]
 }
