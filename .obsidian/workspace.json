@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Módulos y paquetes en Python/Sin título.md",
+                "file": "5. Módulos y paquetes en Python/5.2 Cómo Importar y Utilizar Módulos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Módulos y paquetes en Python/Sin título.md",
+                "file": "5. Módulos y paquetes en Python/5.2 Cómo Importar y Utilizar Módulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Módulos y paquetes en Python/Sin título.md",
+                "file": "5. Módulos y paquetes en Python/5.2 Cómo Importar y Utilizar Módulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Módulos y paquetes en Python/Sin título.md"
+                "file": "5. Módulos y paquetes en Python/5.2 Cómo Importar y Utilizar Módulos.md"
               }
             }
           }
