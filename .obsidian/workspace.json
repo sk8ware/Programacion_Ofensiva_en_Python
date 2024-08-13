@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
+                "file": "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "propiedades",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
+                "file": "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
+                "file": "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md"
+                "file": "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "README.md",
+    "pypi.txt",
     "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
+    "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
+    "5. Módulos y paquetes en Python/5.2 Cómo Importar y Utilizar Módulos.md",
+    "README.md",
     "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
     "5. Módulos y paquetes en Python",
     "3. Estructuras de Datos en Python/3.3 Conjuntos en Python.md",
@@ -174,11 +177,8 @@
     "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
     "2. Fundamentos de Python/2.2 Uso de Shebang y Convenciones en Python.md",
     "2. Fundamentos de Python/2.1 El Entorno de Ejecución de Python.md",
-    "1. Introducción a Python/1.3 Comparación entre Python2, Python3, PIP2 y PIP3.md",
-    "1. Introducción a Python/1.2 Características y Beneficios de Python.md",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
-    "1. Introducción a Python/1.1 Orígenes y Filosofía de Python.md",
     "3. Estructuras de Datos en Python",
     "2. Fundamentos de Python",
     "1. Introducción a Python"
