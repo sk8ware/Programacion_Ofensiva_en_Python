@@ -93,5 +93,3 @@ def list_courses():
 		print(course)
 ```
 
-holaaaaaaaaaaaaaaaaaaaaa
-
