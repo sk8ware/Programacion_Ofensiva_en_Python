@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -149,11 +150,10 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "README.md",
-    "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
+    "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
     "5. Módulos y paquetes en Python/5.2 Cómo Importar y Utilizar Módulos.md",
     "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
-    "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
+    "README.md",
     "pypi.txt",
     "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
     "5. Módulos y paquetes en Python",
