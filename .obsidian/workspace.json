@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md"
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md"
               }
             }
           }
@@ -150,11 +149,13 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "Sin título.md",
+    "README.md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
     "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
+    "Sin título.md",
     "6. Operaciones de Entrada y Salida/6.2 Manejo de Archivos - Lectura y Escritura.md",
     "6. Operaciones de Entrada y Salida/6.1 Captura de Teclado y Visualización en Pantalla.md",
-    "README.md",
     "Pasted image 20240815115026.png",
     "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
     "6. Operaciones de Entrada y Salida",
@@ -179,7 +180,6 @@
     "2. Fundamentos de Python/2.7 Definición de Funciones y Ámbito de Variables.md",
     "2. Fundamentos de Python/2.6 Control de Flujo (Condicionales y Bucles).md",
     "2. Fundamentos de Python/2.5 Formateo de Cadenas.md",
-    "2. Fundamentos de Python/2.4 Operadores Básicos en Python.md",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
     "3. Estructuras de Datos en Python",
