@@ -40,7 +40,7 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
 	- 5.3 Creación y Distribución de Librerías
 - **6. Operaciones de Entrada y Salida:**
 	- 6.1 Captura de Teclado y Visualización en Pantalla
-	- 6.3 Manejo de Archivos: Lectura y Escritura
+	- 6.2 Manejo de Archivos: Lectura y Escritura
 	- 6.3 Formateo de Cadenas y Textos: Técnicas de Manipulación
 - **7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos:**
 	- 7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1)
