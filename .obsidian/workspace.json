@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Operaciones de Entrada y Salida/6.1 Captura de Teclado y Visualización en Pantalla.md",
+                "file": "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Operaciones de Entrada y Salida/6.1 Captura de Teclado y Visualización en Pantalla.md",
+                "file": "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Operaciones de Entrada y Salida/6.1 Captura de Teclado y Visualización en Pantalla.md",
+                "file": "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Operaciones de Entrada y Salida/6.1 Captura de Teclado y Visualización en Pantalla.md"
+                "file": "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "README.md",
+    "6. Operaciones de Entrada y Salida/6.2 Manejo de Archivos - Lectura y Escritura.md",
     "6. Operaciones de Entrada y Salida/6.1 Captura de Teclado y Visualización en Pantalla.md",
+    "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
+    "README.md",
+    "Pasted image 20240815115026.png",
     "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
     "6. Operaciones de Entrada y Salida",
     "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
@@ -175,9 +178,6 @@
     "2. Fundamentos de Python/2.6 Control de Flujo (Condicionales y Bucles).md",
     "2. Fundamentos de Python/2.5 Formateo de Cadenas.md",
     "2. Fundamentos de Python/2.4 Operadores Básicos en Python.md",
-    "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
-    "2. Fundamentos de Python/2.2 Uso de Shebang y Convenciones en Python.md",
-    "2. Fundamentos de Python/2.1 El Entorno de Ejecución de Python.md",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
     "3. Estructuras de Datos en Python",
