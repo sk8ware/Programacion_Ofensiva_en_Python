@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "suma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +149,11 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "README.md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+    "README.md",
+    "2. Fundamentos de Python/2.4 Operadores Básicos en Python.md",
+    "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
     "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
     "Sin título.md",
@@ -177,9 +180,6 @@
     "3. Estructuras de Datos en Python/3.1 Listas en Python.md",
     "2. Fundamentos de Python/2.9 Gestión de Errores y Excepciones.md",
     "2. Fundamentos de Python/2.8 Funciones Lambda y Anónimas.md",
-    "2. Fundamentos de Python/2.7 Definición de Funciones y Ámbito de Variables.md",
-    "2. Fundamentos de Python/2.6 Control de Flujo (Condicionales y Bucles).md",
-    "2. Fundamentos de Python/2.5 Formateo de Cadenas.md",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
     "3. Estructuras de Datos en Python",
