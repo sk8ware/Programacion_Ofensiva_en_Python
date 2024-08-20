@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md"
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md"
               }
             }
           }
@@ -147,10 +148,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "774ef897623db333",
+  "active": "4cbd1c21c3f6d67a",
   "lastOpenFiles": [
-    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
     "README.md",
     "2. Fundamentos de Python/2.4 Operadores Básicos en Python.md",
     "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
