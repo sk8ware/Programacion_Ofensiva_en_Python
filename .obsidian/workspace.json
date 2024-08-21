@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md"
+                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "774ef897623db333",
   "lastOpenFiles": [
     "README.md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
     "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
@@ -179,7 +180,6 @@
     "3. Estructuras de Datos en Python/3.5 Proyecto de Desarrollo de Videojuegos.md",
     "3. Estructuras de Datos en Python/3.4 Diccionarios en Python.md",
     "3. Estructuras de Datos en Python/3.2 Tuplas en Python.md",
-    "3. Estructuras de Datos en Python/3.1 Listas en Python.md",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
     "3. Estructuras de Datos en Python",
