@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5086555480957
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md"
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md"
               }
             }
           }
@@ -150,18 +150,24 @@
   "active": "774ef897623db333",
   "lastOpenFiles": [
     "README.md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.1 Gestión de Fechas y Tiempos.md",
+    "8. Biblioteca Estándar y Herramientas Complementarias",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.6 Sistema de Gestión de Notas (Parte 2).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+    "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
+    "4. Programación Orientada a Objetos en P/4.5 Herencia y Polimorfismo en Python.md",
+    "4. Programación Orientada a Objetos en P/4.2 Definición de Clases y Creación de Objetos (Parte 2).md",
     "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
     "5. Módulos y paquetes en Python/5.2 Cómo Importar y Utilizar Módulos.md",
     "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
-    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
-    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
     "2. Fundamentos de Python/2.4 Operadores Básicos en Python.md",
     "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
-    "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
     "Sin título.md",
     "6. Operaciones de Entrada y Salida/6.2 Manejo de Archivos - Lectura y Escritura.md",
     "6. Operaciones de Entrada y Salida/6.1 Captura de Teclado y Visualización en Pantalla.md",
@@ -173,13 +179,8 @@
     "3. Estructuras de Datos en Python/3.3 Conjuntos en Python.md",
     "4. Programación Orientada a Objetos en P/4.3 Métodos Estáticos y Métodos de Clase.md",
     "4. Programación Orientada a Objetos en P/4.6 Encapsulamiento y Métodos Especiales.md",
-    "4. Programación Orientada a Objetos en P/4.5 Herencia y Polimorfismo en Python.md",
     "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
     "4. Programación Orientada a Objetos en P/4.4 Comprendiendo el Uso de self.md",
-    "4. Programación Orientada a Objetos en P/4.2 Definición de Clases y Creación de Objetos (Parte 2).md",
-    "3. Estructuras de Datos en Python/3.5 Proyecto de Desarrollo de Videojuegos.md",
-    "3. Estructuras de Datos en Python/3.4 Diccionarios en Python.md",
-    "3. Estructuras de Datos en Python/3.2 Tuplas en Python.md",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
     "3. Estructuras de Datos en Python",
