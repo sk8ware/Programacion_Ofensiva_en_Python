@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.3 Administración de Archivos y Directorios.md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.3 Administración de Archivos y Directorios.md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.3 Administración de Archivos y Directorios.md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.3 Administración de Archivos y Directorios.md"
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "README.md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.3 Administración de Archivos y Directorios.md",
+    "README.md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.6 Sistema de Gestión de Notas (Parte 2).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
