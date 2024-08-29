@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.5 Redes y Protocolos (Parte 2).md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.5 Redes y Protocolos (Parte 2).md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.5 Redes y Protocolos (Parte 2).md",
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.5 Redes y Protocolos (Parte 2).md"
+                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "8. Biblioteca Estándar y Herramientas Complementarias/8.4 Redes y Protocolos (Parte 1).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.5 Redes y Protocolos (Parte 2).md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
     "README.md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.4 Redes y Protocolos (Parte 1).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.3 Administración de Archivos y Directorios.md",
     "server_client.png",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
@@ -182,7 +183,6 @@
     "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
     "5. Módulos y paquetes en Python",
     "3. Estructuras de Datos en Python/3.3 Conjuntos en Python.md",
-    "4. Programación Orientada a Objetos en P/4.3 Métodos Estáticos y Métodos de Clase.md",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
     "3. Estructuras de Datos en Python",
