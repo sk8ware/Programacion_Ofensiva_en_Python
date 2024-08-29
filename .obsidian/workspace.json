@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "suma",
+                "query": "tag:#Blibliotecas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md"
+                "file": "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md"
               }
             }
           }
@@ -149,9 +150,12 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
-    "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+    "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
     "README.md",
+    "9. Gestión de Bibliotecas Comunes",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.5 Redes y Protocolos (Parte 2).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.4 Redes y Protocolos (Parte 1).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.3 Administración de Archivos y Directorios.md",
@@ -164,7 +168,6 @@
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
-    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
     "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
     "4. Programación Orientada a Objetos en P/4.5 Herencia y Polimorfismo en Python.md",
     "4. Programación Orientada a Objetos en P/4.2 Definición de Clases y Creación de Objetos (Parte 2).md",
@@ -180,12 +183,10 @@
     "Pasted image 20240815115026.png",
     "6. Operaciones de Entrada y Salida",
     "pypi.txt",
-    "4. Programación Orientada a Objetos en P/4.7 Decoradores y Propiedades en Clases.md",
     "5. Módulos y paquetes en Python",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
     "3. Estructuras de Datos en Python",
-    "2. Fundamentos de Python",
-    "1. Introducción a Python"
+    "2. Fundamentos de Python"
   ]
 }
