@@ -57,3 +57,9 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
 	- 8.5 Redes y Protocolos (Parte 2)
 	- 8.6 Redes y Protocolos (Parte 3)
 	- 8.7 Redes y Protocolos (Parte 4)
+- **9. Gestión de Bibliotecas Comunes**
+	- 9.1 Biblioteca `os` y `sys`
+	- 9.2 Uso de la Biblioteca `requests` (Parte 1)
+	- 9.3 Uso de la Biblioteca `requests` (Parte 2)
+	- 9.4 Biblioteca `urllib3`
+	- 9.5 Biblioteca `threading` y `multiprocessing`
