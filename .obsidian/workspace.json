@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md"
+                "file": "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "774ef897623db333",
   "lastOpenFiles": [
     "README.md",
+    "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
     "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
     "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
@@ -178,7 +179,6 @@
     "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
     "Sin título.md",
-    "6. Operaciones de Entrada y Salida/6.2 Manejo de Archivos - Lectura y Escritura.md",
     "Pasted image 20240815115026.png",
     "6. Operaciones de Entrada y Salida",
     "pypi.txt",
