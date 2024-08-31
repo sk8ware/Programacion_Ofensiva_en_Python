@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.4 Biblioteca `urllib3`.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.4 Biblioteca `urllib3`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
+                "file": "9. Gestión de Bibliotecas Comunes/9.4 Biblioteca `urllib3`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md"
+                "file": "9. Gestión de Bibliotecas Comunes/9.4 Biblioteca `urllib3`.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
     "README.md",
+    "9. Gestión de Bibliotecas Comunes/9.4 Biblioteca `urllib3`.md",
     "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
+    "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
     "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
     "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
     "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
@@ -177,7 +178,6 @@
     "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
     "5. Módulos y paquetes en Python/5.2 Cómo Importar y Utilizar Módulos.md",
     "5. Módulos y paquetes en Python/5.1 Estructuración de Código en Módulos.md",
-    "2. Fundamentos de Python/2.4 Operadores Básicos en Python.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
     "Pasted image 20240815115026.png",
     "6. Operaciones de Entrada y Salida",
