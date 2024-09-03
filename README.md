@@ -63,3 +63,20 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
 	- 9.3 Uso de la Biblioteca `requests` (Parte 2)
 	- 9.4 Biblioteca `urllib3`
 	- 9.5 Biblioteca `threading` y `multiprocessing`
+- **10.Creación de aplicaciones de escritorio con Python**
+	- 10.1 Introducción a la construcción de interfaces gráficas (GUI)
+	- 10.2 Construcción de interfaces gráficas con Tkinter (Parte 1)
+	- 10.3 Construcción de interfaces gráficas con Tkinter (Parte 2)
+	- 10.4 Construcción de interfaces gráficas con Tkinter (Parte 3)
+	- 10.5 Construcción de interfaces gráficas con Tkinter (Parte 4)
+	- 10.6 Construcción de interfaces gráficas con Tkinter (Parte 5)
+	- 10.7 Construcción de interfaces gráficas con Tkinter (Parte 6)
+	- 10.8 Construcción de interfaces gráficas con Tkinter (Parte 7)
+	- 10.9 Construcción de interfaces gráficas con Tkinter (Parte 8)
+	- 10.10 Creación de interfaces avanzadas con CustomTkinter
+	- 10.11 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 1)
+	- 10.12 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 2)
+	- 10.13 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 3)
+	- 10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4)
+	- 10.15 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 5)
+
