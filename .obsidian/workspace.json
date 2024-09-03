@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.5 Biblioteca `threading` y `multiprocessing`.md",
+                "file": "10.Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Blibliotecas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.5 Biblioteca `threading` y `multiprocessing`.md",
+                "file": "10.Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.5 Biblioteca `threading` y `multiprocessing`.md",
+                "file": "10.Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Gestión de Bibliotecas Comunes/9.5 Biblioteca `threading` y `multiprocessing`.md"
+                "file": "10.Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md"
               }
             }
           }
@@ -150,13 +150,16 @@
   "active": "774ef897623db333",
   "lastOpenFiles": [
     "README.md",
+    "10.Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md",
+    "10.Creación de aplicaciones de escritorio con Python",
     "9. Gestión de Bibliotecas Comunes/9.5 Biblioteca `threading` y `multiprocessing`.md",
+    "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
+    "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
     "9. Gestión de Bibliotecas Comunes/9.4 Biblioteca `urllib3`.md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
+    "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
     "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
     "1. Introducción a Python/1.1 Orígenes y Filosofía de Python.md",
-    "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
-    "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
-    "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
     "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
     "9. Gestión de Bibliotecas Comunes",
@@ -171,13 +174,11 @@
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.1 Gestión de Fechas y Tiempos.md",
     "8. Biblioteca Estándar y Herramientas Complementarias",
-    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
     "6. Operaciones de Entrada y Salida/6.3 Formateo de Cadenas y Textos Técnicas de Manipulación.md",
     "4. Programación Orientada a Objetos en P/4.5 Herencia y Polimorfismo en Python.md",
     "4. Programación Orientada a Objetos en P/4.2 Definición de Clases y Creación de Objetos (Parte 2).md",
-    "5. Módulos y paquetes en Python/5.3 Creación y Distribución de Librerías.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
     "Pasted image 20240815115026.png",
     "6. Operaciones de Entrada y Salida",
@@ -185,7 +186,6 @@
     "5. Módulos y paquetes en Python",
     "4. Programación Orientada a Objetos en P",
     "Programación Orientada a Objetos en Python",
-    "3. Estructuras de Datos en Python",
-    "2. Fundamentos de Python"
+    "3. Estructuras de Datos en Python"
   ]
 }
