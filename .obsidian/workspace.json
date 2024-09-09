@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.Creación de aplicaciones de escritorio con Python/10.4 Construcción de interfaces gráficas con Tkinter (Parte 3).md",
+                "file": "10.Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.Creación de aplicaciones de escritorio con Python/10.4 Construcción de interfaces gráficas con Tkinter (Parte 3).md",
+                "file": "10.Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.Creación de aplicaciones de escritorio con Python/10.4 Construcción de interfaces gráficas con Tkinter (Parte 3).md",
+                "file": "10.Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.Creación de aplicaciones de escritorio con Python/10.4 Construcción de interfaces gráficas con Tkinter (Parte 3).md"
+                "file": "10.Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md"
               }
             }
           }
@@ -149,10 +149,13 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
+    "10.Creación de aplicaciones de escritorio con Python/10.6 Construcción de interfaces gráficas con Tkinter (Parte 5).md",
+    "10.Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md",
+    "README.md",
+    "10.Creación de aplicaciones de escritorio con Python/10.5 Construcción de interfaces gráficas con Tkinter (Parte 4).md",
+    "10.Creación de aplicaciones de escritorio con Python/10.4 Construcción de interfaces gráficas con Tkinter (Parte 3).md",
     "10.Creación de aplicaciones de escritorio con Python/10.3 Construcción de interfaces gráficas con Tkinter (Parte 2).md",
     "10.Creación de aplicaciones de escritorio con Python/10.2 Construcción de interfaces gráficas con Tkinter (Parte 1).md",
-    "10.Creación de aplicaciones de escritorio con Python/10.4 Construcción de interfaces gráficas con Tkinter (Parte 3).md",
-    "README.md",
     "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
     "10.Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md",
     "10.Creación de aplicaciones de escritorio con Python",
@@ -175,10 +178,7 @@
     "8. Biblioteca Estándar y Herramientas Complementarias/8.2 Uso de Expresiones Regulares.md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.6 Sistema de Gestión de Notas (Parte 2).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.5 Sistema de Gestión de Notas (Parte 1).md",
-    "8. Biblioteca Estándar y Herramientas Complementarias/8.1 Gestión de Fechas y Tiempos.md",
     "8. Biblioteca Estándar y Herramientas Complementarias",
-    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
-    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
     "Pasted image 20240815115026.png",
     "6. Operaciones de Entrada y Salida",
