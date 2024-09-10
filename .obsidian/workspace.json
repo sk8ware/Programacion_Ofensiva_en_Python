@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.Creación de aplicaciones de escritorio con Python/10.8 Construcción de interfaces gráficas con Tkinter (Parte 7).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.Creación de aplicaciones de escritorio con Python/10.8 Construcción de interfaces gráficas con Tkinter (Parte 7).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.Creación de aplicaciones de escritorio con Python/10.8 Construcción de interfaces gráficas con Tkinter (Parte 7).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.Creación de aplicaciones de escritorio con Python/10.8 Construcción de interfaces gráficas con Tkinter (Parte 7).md"
+                "file": "README.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "10.Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md",
     "10.Creación de aplicaciones de escritorio con Python/10.8 Construcción de interfaces gráficas con Tkinter (Parte 7).md",
+    "10.Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md",
     "README.md",
     "10.Creación de aplicaciones de escritorio con Python/10.6 Construcción de interfaces gráficas con Tkinter (Parte 5).md",
     "10.Creación de aplicaciones de escritorio con Python/10.5 Construcción de interfaces gráficas con Tkinter (Parte 4).md",
