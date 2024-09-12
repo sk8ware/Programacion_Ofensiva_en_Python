@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.9 Construcción de interfaces gráficas con Tkinter (Parte 8).md",
+                "file": "10. Creación de aplicaciones de escritorio con Python/10.10 Creación de interfaces avanzadas con CustomTkinter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.9 Construcción de interfaces gráficas con Tkinter (Parte 8).md",
+                "file": "10. Creación de aplicaciones de escritorio con Python/10.10 Creación de interfaces avanzadas con CustomTkinter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.9 Construcción de interfaces gráficas con Tkinter (Parte 8).md",
+                "file": "10. Creación de aplicaciones de escritorio con Python/10.10 Creación de interfaces avanzadas con CustomTkinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.9 Construcción de interfaces gráficas con Tkinter (Parte 8).md"
+                "file": "10. Creación de aplicaciones de escritorio con Python/10.10 Creación de interfaces avanzadas con CustomTkinter.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4cbd1c21c3f6d67a",
+  "active": "774ef897623db333",
   "lastOpenFiles": [
-    "10. Creación de aplicaciones de escritorio con Python/10.8 Construcción de interfaces gráficas con Tkinter (Parte 7).md",
-    "10. Creación de aplicaciones de escritorio con Python/10.9 Construcción de interfaces gráficas con Tkinter (Parte 8).md",
     "README.md",
+    "10. Creación de aplicaciones de escritorio con Python/10.10 Creación de interfaces avanzadas con CustomTkinter.md",
+    "10. Creación de aplicaciones de escritorio con Python/10.9 Construcción de interfaces gráficas con Tkinter (Parte 8).md",
+    "10. Creación de aplicaciones de escritorio con Python/10.8 Construcción de interfaces gráficas con Tkinter (Parte 7).md",
     "10. Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
     "10. Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md",
@@ -176,7 +177,6 @@
     "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.5 Redes y Protocolos (Parte 2).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.4 Redes y Protocolos (Parte 1).md",
-    "8. Biblioteca Estándar y Herramientas Complementarias/8.3 Administración de Archivos y Directorios.md",
     "server_client.png",
     "8. Biblioteca Estándar y Herramientas Complementarias",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
