@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.13 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 3).md",
+                "file": "10. Creación de aplicaciones de escritorio con Python/10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5086555480957
+    "width": 279.5004348754883
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.13 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 3).md",
+                "file": "10. Creación de aplicaciones de escritorio con Python/10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.13 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 3).md",
+                "file": "10. Creación de aplicaciones de escritorio con Python/10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.13 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 3).md"
+                "file": "10. Creación de aplicaciones de escritorio con Python/10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4).md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "10. Creación de aplicaciones de escritorio con Python/10.12 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 2).md",
     "10. Creación de aplicaciones de escritorio con Python/10.13 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 3).md",
+    "10. Creación de aplicaciones de escritorio con Python/10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4).md",
     "README.md",
+    "10. Creación de aplicaciones de escritorio con Python/10.12 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 2).md",
     "10. Creación de aplicaciones de escritorio con Python/10.11 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 1).md",
     "10. Creación de aplicaciones de escritorio con Python/10.10 Creación de interfaces avanzadas con CustomTkinter.md",
     "10. Creación de aplicaciones de escritorio con Python/10.9 Construcción de interfaces gráficas con Tkinter (Parte 8).md",
@@ -176,7 +177,6 @@
     "4. Programación Orientada a Objetos en P/4.1 Definición de Clases y Creación de Objetos (Parte 1).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
     "9. Gestión de Bibliotecas Comunes",
-    "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md",
     "server_client.png",
     "8. Biblioteca Estándar y Herramientas Complementarias",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos",
