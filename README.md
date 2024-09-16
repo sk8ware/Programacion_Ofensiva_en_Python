@@ -89,3 +89,29 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
 	- 10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4)
 	- 10.15 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 5)
 
+- **11.Fundamentos de Python para Seguridad Ofensiva:**
+	- 11.1 Antes de la Fase de Explotación
+	- 11.2 Desarrollando un Analizador de Puertos (Parte 1 de 4)
+	- 11.3 Desarrollando un Analizador de Puertos (Parte 2 de 4)
+	- 11.4 Desarrollando un Analizador de Puertos (Parte 3 de 4)
+	- 11.5 Desarrollando un Analizador de Puertos (Parte 4 de 4)
+	- 11.6 Programando una Herramienta para Cambiar la Dirección MAC
+	- 11.7 Construyendo un Escáner de Red (ICMP)
+	- 11.8 Construyendo un Escáner de Red (ARP) usando Scapy
+	- 11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy
+	- 11.11 Implementando un Sniffer de Consultas DNS con Scapy
+	- 11.12 Creando un Sniffer de Tráfico HTTP con Scapy
+	- 11.13 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump
+	- 11.14 Extracción de Imágenes en Tráfico HTTPS con mitmdump
+	- 11.15 Construcción de un DNS Spoofer con Scapy y NetfilterQueue
+	- 11.16 Manipulación e Intercepción de Tráfico en Red
+	- 11.17 Desarrollando un Keylogger (Parte 1 de 2)
+	- 11.18 Desarrollando un Keylogger (Parte 2 de 2)
+	- 11.19 Creación de Software Malicioso (Parte 1 de 2)
+	- 11.20 Creación de Software Malicioso (Parte 2 de 2)
+	- 11.21 Desarrollo de Backdoors y Control Remoto (Parte 1 de 2)
+	- 11.22 Desarrollo de Backdoors y Control Remoto (Parte 2 de 2)
+	- 11.23 Implementación de un Reverse Shell (Parte 1 de 4)
+	- 11.24 Implementación de un Reverse Shell (Parte 2 de 4)
+	- 11.25 Implementación de un Reverse Shell (Parte 3 de 4)
+	- 11.26 Implementación de un Reverse Shell (Parte 4 de 4)
