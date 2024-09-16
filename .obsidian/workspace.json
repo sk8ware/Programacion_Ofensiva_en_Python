@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.16 Repaso final.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.1 Antes de la Fase de Explotación.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.16 Repaso final.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.1 Antes de la Fase de Explotación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.16 Repaso final.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.1 Antes de la Fase de Explotación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Creación de aplicaciones de escritorio con Python/10.16 Repaso final.md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.1 Antes de la Fase de Explotación.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "10. Creación de aplicaciones de escritorio con Python/10.3 Construcción de interfaces gráficas con Tkinter (Parte 2).md",
+    "README.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.1 Antes de la Fase de Explotación.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva",
     "10. Creación de aplicaciones de escritorio con Python/10.16 Repaso final.md",
+    "10. Creación de aplicaciones de escritorio con Python/10.3 Construcción de interfaces gráficas con Tkinter (Parte 2).md",
     "10. Creación de aplicaciones de escritorio con Python/10.2 Construcción de interfaces gráficas con Tkinter (Parte 1).md",
     "10. Creación de aplicaciones de escritorio con Python/10.15 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 5).md",
     "10. Creación de aplicaciones de escritorio con Python/10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4).md",
-    "README.md",
     "10. Creación de aplicaciones de escritorio con Python/10.13 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 3).md",
     "10. Creación de aplicaciones de escritorio con Python/10.12 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 2).md",
     "10. Creación de aplicaciones de escritorio con Python/10.11 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 1).md",
@@ -175,7 +177,6 @@
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
     "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
     "2. Fundamentos de Python/2.3 Declaración de Variables y Tipos de Datos.md",
-    "1. Introducción a Python/1.1 Orígenes y Filosofía de Python.md",
     "9. Gestión de Bibliotecas Comunes",
     "server_client.png",
     "8. Biblioteca Estándar y Herramientas Complementarias",
@@ -185,7 +186,6 @@
     "pypi.txt",
     "5. Módulos y paquetes en Python",
     "4. Programación Orientada a Objetos en P",
-    "Programación Orientada a Objetos en Python",
-    "3. Estructuras de Datos en Python"
+    "Programación Orientada a Objetos en Python"
   ]
 }
