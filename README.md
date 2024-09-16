@@ -99,19 +99,19 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
 	- 11.7 Construyendo un Escáner de Red (ICMP)
 	- 11.8 Construyendo un Escáner de Red (ARP) usando Scapy
 	- 11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy
-	- 11.11 Implementando un Sniffer de Consultas DNS con Scapy
-	- 11.12 Creando un Sniffer de Tráfico HTTP con Scapy
-	- 11.13 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump
-	- 11.14 Extracción de Imágenes en Tráfico HTTPS con mitmdump
-	- 11.15 Construcción de un DNS Spoofer con Scapy y NetfilterQueue
-	- 11.16 Manipulación e Intercepción de Tráfico en Red
-	- 11.17 Desarrollando un Keylogger (Parte 1 de 2)
-	- 11.18 Desarrollando un Keylogger (Parte 2 de 2)
-	- 11.19 Creación de Software Malicioso (Parte 1 de 2)
-	- 11.20 Creación de Software Malicioso (Parte 2 de 2)
-	- 11.21 Desarrollo de Backdoors y Control Remoto (Parte 1 de 2)
-	- 11.22 Desarrollo de Backdoors y Control Remoto (Parte 2 de 2)
-	- 11.23 Implementación de un Reverse Shell (Parte 1 de 4)
-	- 11.24 Implementación de un Reverse Shell (Parte 2 de 4)
-	- 11.25 Implementación de un Reverse Shell (Parte 3 de 4)
-	- 11.26 Implementación de un Reverse Shell (Parte 4 de 4)
+	- 11.10 Implementando un Sniffer de Consultas DNS con Scapy
+	- 11.11 Creando un Sniffer de Tráfico HTTP con Scapy
+	- 11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump
+	- 11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump
+	- 11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue
+	- 11.15 Manipulación e Intercepción de Tráfico en Red
+	- 11.16 Desarrollando un Keylogger (Parte 1 de 2)
+	- 11.17 Desarrollando un Keylogger (Parte 2 de 2)
+	- 11.18 Creación de Software Malicioso (Parte 1 de 2)
+	- 11.19 Creación de Software Malicioso (Parte 2 de 2)
+	- 11.20 Desarrollo de Backdoors y Control Remoto (Parte 1 de 2)
+	- 11.21 Desarrollo de Backdoors y Control Remoto (Parte 2 de 2)
+	- 11.22 Implementación de un Reverse Shell (Parte 1 de 4)
+	- 11.23 Implementación de un Reverse Shell (Parte 2 de 4)
+	- 11.24 Implementación de un Reverse Shell (Parte 3 de 4)
+	- 11.25 Implementación de un Reverse Shell (Parte 4 de 4)
