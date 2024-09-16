@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.4 Desarrollando un Analizador de Puertos (Parte 3 de 4).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.5 Desarrollando un Analizador de Puertos (Parte 4 de 4).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.4 Desarrollando un Analizador de Puertos (Parte 3 de 4).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.5 Desarrollando un Analizador de Puertos (Parte 4 de 4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.4 Desarrollando un Analizador de Puertos (Parte 3 de 4).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.5 Desarrollando un Analizador de Puertos (Parte 4 de 4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.4 Desarrollando un Analizador de Puertos (Parte 3 de 4).md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.5 Desarrollando un Analizador de Puertos (Parte 4 de 4).md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.3 Desarrollando un Analizador de Puertos (Parte 2 de 4).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.4 Desarrollando un Analizador de Puertos (Parte 3 de 4).md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.5 Desarrollando un Analizador de Puertos (Parte 4 de 4).md",
     "README.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.3 Desarrollando un Analizador de Puertos (Parte 2 de 4).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.2 Desarrollando un Analizador de Puertos (Parte 1 de 4).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.1 Antes de la Fase de Explotación.md",
     "11.Fundamentos de Python para Seguridad Ofensiva",
@@ -176,7 +177,6 @@
     "10. Creación de aplicaciones de escritorio con Python",
     "9. Gestión de Bibliotecas Comunes/9.5 Biblioteca `threading` y `multiprocessing`.md",
     "9. Gestión de Bibliotecas Comunes/9.3 Uso de la Biblioteca `requests` (Parte 2).md",
-    "9. Gestión de Bibliotecas Comunes/9.4 Biblioteca `urllib3`.md",
     "9. Gestión de Bibliotecas Comunes",
     "server_client.png",
     "8. Biblioteca Estándar y Herramientas Complementarias",
