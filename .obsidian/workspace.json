@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.10 Implementando un Sniffer de Consultas DNS con Scapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.10 Implementando un Sniffer de Consultas DNS con Scapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.10 Implementando un Sniffer de Consultas DNS con Scapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.10 Implementando un Sniffer de Consultas DNS con Scapy.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
+    "README.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.10 Implementando un Sniffer de Consultas DNS con Scapy.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.6 Programando una Herramienta para Cambiar la Dirección MAC.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.5 Desarrollando un Analizador de Puertos (Parte 4 de 4).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.4 Desarrollando un Analizador de Puertos (Parte 3 de 4).md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.7 Construyendo un Escáner de Red (ICMP).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.8 Construyendo un Escáner de Red (ARP) usando Scapy.md",
-    "README.md",
     "4. Programación Orientada a Objetos en P/4.4 Comprendiendo el Uso de self.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.3 Desarrollando un Analizador de Puertos (Parte 2 de 4).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.2 Desarrollando un Analizador de Puertos (Parte 1 de 4).md",
@@ -175,7 +176,6 @@
     "10. Creación de aplicaciones de escritorio con Python/10.5 Construcción de interfaces gráficas con Tkinter (Parte 4).md",
     "10. Creación de aplicaciones de escritorio con Python/10.7 Construcción de interfaces gráficas con Tkinter (Parte 6).md",
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
-    "10. Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md",
     "10. Creación de aplicaciones de escritorio con Python",
     "9. Gestión de Bibliotecas Comunes",
     "server_client.png",
