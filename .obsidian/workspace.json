@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.7 Construyendo un Escáner de Red (ICMP).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.8 Construyendo un Escáner de Red (ARP) usando Scapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Clases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.7 Construyendo un Escáner de Red (ICMP).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.8 Construyendo un Escáner de Red (ARP) usando Scapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.7 Construyendo un Escáner de Red (ICMP).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.8 Construyendo un Escáner de Red (ARP) usando Scapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.7 Construyendo un Escáner de Red (ICMP).md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.8 Construyendo un Escáner de Red (ARP) usando Scapy.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
+    "4. Programación Orientada a Objetos en P/4.4 Comprendiendo el Uso de self.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.8 Construyendo un Escáner de Red (ARP) usando Scapy.md",
     "README.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.7 Construyendo un Escáner de Red (ICMP).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.6 Programando una Herramienta para Cambiar la Dirección MAC.md",
@@ -174,8 +176,6 @@
     "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
     "10. Creación de aplicaciones de escritorio con Python/10.1 Introducción a la construcción de interfaces gráficas (GUI).md",
     "10. Creación de aplicaciones de escritorio con Python/10.6 Construcción de interfaces gráficas con Tkinter (Parte 5).md",
-    "10. Creación de aplicaciones de escritorio con Python/10.4 Construcción de interfaces gráficas con Tkinter (Parte 3).md",
-    "9. Gestión de Bibliotecas Comunes/9.2 Uso de la Biblioteca `requests` (Parte 1).md",
     "10. Creación de aplicaciones de escritorio con Python",
     "9. Gestión de Bibliotecas Comunes",
     "server_client.png",
