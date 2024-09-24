@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red.md",
-    "README.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md",
+    "README.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.11 Creando un Sniffer de Tráfico HTTP con Scapy.md",
