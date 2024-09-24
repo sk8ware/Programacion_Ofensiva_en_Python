@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
     "README.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.11 Creando un Sniffer de Tráfico HTTP con Scapy.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.10 Implementando un Sniffer de Consultas DNS con Scapy.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
@@ -175,7 +176,6 @@
     "10. Creación de aplicaciones de escritorio con Python/10.11 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 1).md",
     "10. Creación de aplicaciones de escritorio con Python/10.10 Creación de interfaces avanzadas con CustomTkinter.md",
     "10. Creación de aplicaciones de escritorio con Python/10.9 Construcción de interfaces gráficas con Tkinter (Parte 8).md",
-    "10. Creación de aplicaciones de escritorio con Python/10.8 Construcción de interfaces gráficas con Tkinter (Parte 7).md",
     "10. Creación de aplicaciones de escritorio con Python",
     "9. Gestión de Bibliotecas Comunes",
     "server_client.png",
