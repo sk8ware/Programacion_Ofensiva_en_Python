@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
     "README.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.11 Creando un Sniffer de Tráfico HTTP con Scapy.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.10 Implementando un Sniffer de Consultas DNS con Scapy.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
