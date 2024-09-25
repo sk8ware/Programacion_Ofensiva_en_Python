@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.16 Desarrollando un Keylogger (Parte 1 de 2).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5004348754883
+    "width": 279.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.16 Desarrollando un Keylogger (Parte 1 de 2).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.16 Desarrollando un Keylogger (Parte 1 de 2).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.16 Desarrollando un Keylogger (Parte 1 de 2).md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.16 Desarrollando un Keylogger (Parte 1 de 2).md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md",
     "README.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
