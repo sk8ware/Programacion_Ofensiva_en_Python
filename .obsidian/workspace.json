@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
     "README.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.16 Desarrollando un Keylogger (Parte 1 de 2).md",
