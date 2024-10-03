@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Clases",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md"
+                "file": "README.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   "active": "774ef897623db333",
   "lastOpenFiles": [
     "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md",
+    "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.5 Redes y Protocolos (Parte 2).md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.4 Redes y Protocolos (Parte 1).md",
+    "8. Biblioteca Estándar y Herramientas Complementarias/8.1 Gestión de Fechas y Tiempos.md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.4 Sistema de Administración de Flota de Vehículos.md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.3 Sistema de Gestión de Animales en Tienda.md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.2 Sistema de Gestión de Biblioteca de Libros (Parte 2).md",
+    "7. Proyectos de Programación Orientada a Objetos para Reforzar Conceptos/7.1 Sistema de Gestión de Biblioteca de Libros (Parte 1).md",
+    "6. Operaciones de Entrada y Salida/6.2 Manejo de Archivos - Lectura y Escritura.md",
+    "6. Operaciones de Entrada y Salida/6.1 Captura de Teclado y Visualización en Pantalla.md",
+    "2. Fundamentos de Python/2.9 Gestión de Errores y Excepciones.md",
+    "2. Fundamentos de Python/2.2 Uso de Shebang y Convenciones en Python.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md",
+    "1. Introducción a Python/1.2 Características y Beneficios de Python.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
     "README.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.17 Desarrollando un Keylogger (Parte 2 de 2).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.16 Desarrollando un Keylogger (Parte 1 de 2).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.11 Creando un Sniffer de Tráfico HTTP con Scapy.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.10 Implementando un Sniffer de Consultas DNS con Scapy.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.9 Desarrollando un Ataque de Suplantación ARP (ARP Spoofer) con Scapy.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.6 Programando una Herramienta para Cambiar la Dirección MAC.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.7 Construyendo un Escáner de Red (ICMP).md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.8 Construyendo un Escáner de Red (ARP) usando Scapy.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.5 Desarrollando un Analizador de Puertos (Parte 4 de 4).md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.4 Desarrollando un Analizador de Puertos (Parte 3 de 4).md",
-    "4. Programación Orientada a Objetos en P/4.4 Comprendiendo el Uso de self.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.3 Desarrollando un Analizador de Puertos (Parte 2 de 4).md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.2 Desarrollando un Analizador de Puertos (Parte 1 de 4).md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.1 Antes de la Fase de Explotación.md",
     "11.Fundamentos de Python para Seguridad Ofensiva",
-    "10. Creación de aplicaciones de escritorio con Python/10.16 Repaso final.md",
-    "10. Creación de aplicaciones de escritorio con Python/10.3 Construcción de interfaces gráficas con Tkinter (Parte 2).md",
-    "10. Creación de aplicaciones de escritorio con Python/10.2 Construcción de interfaces gráficas con Tkinter (Parte 1).md",
-    "10. Creación de aplicaciones de escritorio con Python/10.15 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 5).md",
-    "10. Creación de aplicaciones de escritorio con Python/10.14 Desarrollo de Chat con GUI y cifrado de extremo a extremo (Parte 4).md",
     "10. Creación de aplicaciones de escritorio con Python",
     "9. Gestión de Bibliotecas Comunes",
     "server_client.png",
