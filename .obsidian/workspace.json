@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
+                "file": "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5004348754883,
-    "collapsed": true
+    "width": 279.5004348754883
   },
   "right": {
     "id": "9546d1b9add5b5be",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
+                "file": "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
+                "file": "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md"
+                "file": "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md"
               }
             }
           }
@@ -150,9 +149,12 @@
   },
   "active": "774ef897623db333",
   "lastOpenFiles": [
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.20 Desarrollo de Backdoors y Control Remoto (Parte 1 de 2).md",
+    "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
+    "NoCaptcha IA",
     "README.md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md",
     "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.7 Redes y Protocolos (Parte 4).md",
     "8. Biblioteca Estándar y Herramientas Complementarias/8.6 Redes y Protocolos (Parte 3).md",
@@ -174,8 +176,6 @@
     "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.12 Desarrollando un Sniffer de Tráfico HTTPS con mitmdump.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.11 Creando un Sniffer de Tráfico HTTP con Scapy.md",
     "11.Fundamentos de Python para Seguridad Ofensiva",
     "10. Creación de aplicaciones de escritorio con Python",
     "9. Gestión de Bibliotecas Comunes",
@@ -186,7 +186,6 @@
     "6. Operaciones de Entrada y Salida",
     "pypi.txt",
     "5. Módulos y paquetes en Python",
-    "4. Programación Orientada a Objetos en P",
-    "Programación Orientada a Objetos en Python"
+    "4. Programación Orientada a Objetos en P"
   ]
 }
