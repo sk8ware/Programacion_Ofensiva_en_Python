@@ -117,5 +117,3 @@ Domina Python **desde cero** y crea tu propio arsenal de herramientas ofensiva
 	- 11.25 Implementación de un Reverse Shell (Parte 4 de 4)
 
 
-
-hola holaaaaaaaa
