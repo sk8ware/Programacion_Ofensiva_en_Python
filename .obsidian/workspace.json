@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.21 Desarrollo de Backdoors y Control Remoto (Parte 2 de 2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.21 Desarrollo de Backdoors y Control Remoto (Parte 2 de 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.21 Desarrollo de Backdoors y Control Remoto (Parte 2 de 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md"
+                "file": "11.Fundamentos de Python para Seguridad Ofensiva/11.21 Desarrollo de Backdoors y Control Remoto (Parte 2 de 2).md"
               }
             }
           }
@@ -150,9 +150,11 @@
   "active": "774ef897623db333",
   "lastOpenFiles": [
     "11.Fundamentos de Python para Seguridad Ofensiva/11.20 Desarrollo de Backdoors y Control Remoto (Parte 1 de 2).md",
-    "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
-    "NoCaptcha IA",
+    "11.Fundamentos de Python para Seguridad Ofensiva/11.21 Desarrollo de Backdoors y Control Remoto (Parte 2 de 2).md",
     "README.md",
+    "NoCaptcha IA/Bypass con Selenium y extensión NoCaptcha.md",
+    "20241009-1937-46.9828616.mp4",
+    "NoCaptcha IA",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.19 Creación de Software Malicioso (Parte 2 de 2).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.18 Creación de Software Malicioso (Parte 1 de 2).md",
     "9. Gestión de Bibliotecas Comunes/9.1 Biblioteca `os` y `sys`.md",
@@ -175,7 +177,6 @@
     "11.Fundamentos de Python para Seguridad Ofensiva/11.16 Desarrollando un Keylogger (Parte 1 de 2).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.15 Manipulación e Intercepción de Tráfico en Red (Traffic Hijacking).md",
     "11.Fundamentos de Python para Seguridad Ofensiva/11.14 Construcción de un DNS Spoofer con Scapy y NetfilterQueue.md",
-    "11.Fundamentos de Python para Seguridad Ofensiva/11.13 Extracción de Imágenes en Tráfico HTTPS con mitmdump.md",
     "11.Fundamentos de Python para Seguridad Ofensiva",
     "10. Creación de aplicaciones de escritorio con Python",
     "9. Gestión de Bibliotecas Comunes",
@@ -185,7 +186,6 @@
     "Pasted image 20240815115026.png",
     "6. Operaciones de Entrada y Salida",
     "pypi.txt",
-    "5. Módulos y paquetes en Python",
-    "4. Programación Orientada a Objetos en P"
+    "5. Módulos y paquetes en Python"
   ]
 }
